@@ -10,9 +10,9 @@ The purpose of this project is to create a tool that reminds me to take regular 
 
 # Development Environment
 
-Language: Python
-Libraries: tkinter, datetime, urllib.request, json
-External API: Zenquotes
+Language: Python.
+Libraries: tkinter, datetime, urllib.request, json.
+External API: Zenquotes.
 
 Python is a cross-platform programming language known for its simple, readable syntax and extensive standard library. It provides excellent support for common tasks, including GUI development and HTTP requests.
 
