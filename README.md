@@ -4,8 +4,6 @@ TimeGreet is a lightweight desktop application designed to provide personalized 
 
 The purpose of this project is to create a tool that reminds me to take regular breaks during my workday. I plan to use customized messages that encourage me to stretch and move away from my desk, as I spend most of my time working at my computer.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
 [TimeGreet Demo Video](https://youtu.be/QhVvDFn8ZD8)
 
 # Development Environment
