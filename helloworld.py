@@ -1,9 +1,3 @@
-"""
-Hello World Tkinter Application
-A simple GUI that greets the user based on time of day
-And fetches a motivational quote from an API
-"""
-
 import tkinter as tk
 from tkinter import font
 import datetime
